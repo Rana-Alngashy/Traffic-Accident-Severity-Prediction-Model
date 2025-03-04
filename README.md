@@ -108,5 +108,4 @@ This project aims to apply data mining techniques to real-world traffic accident
 
 ## Acknowledgements
 
-This project is based on code originally developed by Ralshatiri (found at https://github.com/Ralshatiri/Data-mining-project) and has been modified to suit the specific requirements of this project. 
 
