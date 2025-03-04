@@ -1,6 +1,6 @@
-### **Phase 1: Data Selection** 
-
-#### **Overview**
+# **Phase 1: Data Selection** 
+---
+## **Overview**
 In this phase, I identified and selected a relevant dataset for analyzing traffic accidents and predicting accident severity. The dataset contains key information about environmental and traffic conditions during accidents, including attributes such as accident severity, weather conditions, and road status. The dataset consists of 840 instances and 14 attributes, which include variables like temperature, humidity, wind speed, visibility, and traffic volume.
 
 The selected dataset serves as the foundation for the project, which aims to leverage data mining techniques to identify patterns and predict accident severity. The objective is to enhance road safety, improve transportation systems, and optimize emergency response strategies.
@@ -8,8 +8,7 @@ The selected dataset serves as the foundation for the project, which aims to lev
 The dataset provides a clear representation of the problem domain, making it suitable for applying clustering techniques to identify patterns and classification algorithms to predict accident severity.
 
 ---
-
-#### **Project Goal**
+## **Project Goal**
 
 Traffic accidents are a critical public safety issue, leading to significant loss of life and economic consequences. Understanding the factors that influence accident severity is essential for improving road safety and emergency response strategies. This dataset provides valuable insights into how environmental and traffic conditions impact accident outcomes. By analyzing these patterns and building predictive models, we aim to contribute to smarter transportation systems and help reduce the severity and impact of road accidents.
 
