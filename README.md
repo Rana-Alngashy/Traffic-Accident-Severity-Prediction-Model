@@ -104,6 +104,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## Conclusion
 
 This project aims to apply data mining techniques to real-world traffic accident data. By identifying patterns and predicting accident severity, we can contribute to enhancing road safety, optimizing emergency responses, and ultimately improving transportation systems.
-```
-
-
